@@ -1,0 +1,6 @@
+! poco m2
+
+||0-edge-chat-latest.messenger.com^
+||tracking.india.miui.com
+||idmb.app.chat.global.xiaomi.net
+||app-measurement.com
