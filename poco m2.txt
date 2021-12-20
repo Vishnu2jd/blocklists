@@ -4,3 +4,4 @@
 ||tracking.india.miui.com
 ||idmb.app.chat.global.xiaomi.net
 ||app-measurement.com
+||googleadservices.com
