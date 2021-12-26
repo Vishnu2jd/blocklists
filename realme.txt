@@ -1,0 +1,9 @@
+!realme
+
+||mdp-appconf-in.heytapdl.com
+||firebaseinstallations.googleapis.com
+||firebaseremoteconfig.googleapis.com
+||adx-in.ads.heytapmobile.com
+||client-uc.heytapmobi.com
+||kvinit-prod.api.kochava.com
+||digianalytics.airtel.in
