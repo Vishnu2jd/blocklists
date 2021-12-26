@@ -10,3 +10,5 @@
 ||adx-in.ads.heytapmobile.com
 ||graph.facebook.com
 ||digianalytics.airtel.in
+||stg-data-in.ads.heytapmobile.com
+||cl-data-in.ads.heytapmobile.com
