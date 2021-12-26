@@ -8,3 +8,4 @@
 ||kvinit-prod.api.kochava.com
 ||digianalytics.airtel.in
 ||adx-in.ads.heytapmobile.com
+||graph.facebook.com
