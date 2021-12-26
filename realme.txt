@@ -7,3 +7,4 @@
 ||client-uc.heytapmobi.com
 ||kvinit-prod.api.kochava.com
 ||digianalytics.airtel.in
+||adx-in.ads.heytapmobile.com
