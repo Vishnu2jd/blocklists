@@ -11,3 +11,6 @@
 0.0.0.0 b.thumbs.redditmedia.com
 0.0.0.0 gateway.reddit.com
 0.0.0.0 gql.reddit.com
+
+#inshorts
+0.0.0.0 assets.getinpix.com
