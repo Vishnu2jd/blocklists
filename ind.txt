@@ -1,0 +1,5 @@
+
+#ind
+
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
