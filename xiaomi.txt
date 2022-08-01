@@ -249,3 +249,12 @@ zeus.ad.xiaomi.com
 zhuti.xiaomi.com
 zx.game.xiaomi.com
 zx.game.xiaomi.comstat.xiaomi.com
+api.g.micloud.xiaomi.net
+find.api.micloud.xiaomi.net
+mb.resolver.msg.global.xiaomi.net
+idmb.app.chat.global.xiaomi.net
+global.market.xiaomi.com
+idmb.register.xmpush.global.xiaomi.com
+jupiter.intl.sys.miui.com
+update.intl.miui.com
+privacy.api.intl.miui.com
